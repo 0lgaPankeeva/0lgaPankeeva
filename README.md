@@ -1,4 +1,5 @@
-### Hi there 👋
+### Всем привет 👋
+Меня зовут Ольга, я начинающий Инженер по тестированию. 
 
 <!--
 **0lgaPankeeva/0lgaPankeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!--### :fire: Моя статистика : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0lgapankeeva&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru)](https://git.io/streak-stats)
+**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0lgaPankeeva&locale=ru&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://github.com/anuraghazra/github-readme-stats)**-->
