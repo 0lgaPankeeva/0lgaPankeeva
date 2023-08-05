@@ -1,23 +1,56 @@
-### Всем привет 👋
-Меня зовут Ольга, я начинающий Инженер по тестированию. 
 
-<!--
-**0lgaPankeeva/0lgaPankeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Меня зовут Ольга, я начинающий Инженер по тестированию. 
 
-Here are some ideas to get you started:
+### Мои проекты в рамках курса обучения профессии Инженер по тестированию: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Дипломный проект по профессии «Инженер по тестированию»
+[Тестирование мобильного приложения](https://github.com/0lgaPankeeva/QAMID-DIPLOM.git)
+
+#### Ручное тестирование
+[Основы клиент-серверного взаимодействия](https://docs.google.com/document/d/17USo3Bd8mE3X3GD-zSOC0azyVkvMt1UJE1CKhEbpjSo/edit)
+
+[Тест-кейсы для проверки страницы с формой заявки на оформление банковской карты](https://docs.google.com/spreadsheets/d/12eqld5LTHfYbm5Bd1xdvwD2wOA88tamO1-h3XGXCVKo/edit#gid=0)
+
+#### Java и автоматизированное тестирование веб-приложений на Java
+
+[Система сборки Maven, управление зависимостями, автотесты на JUnit5](https://github.com/0lgaPankeeva/Java5.1Maven.git)
+
+[Выстраивание процесса непрерывной интеграции](https://github.com/0lgaPankeeva/Java8.2..git)
+
+[Объектно-ориентированное программирование: ключевые принципы](https://github.com/0lgaPankeeva/Java9.1..git)
+
+[Функция работы радио в проекте "Умный дом"](https://github.com/0lgaPankeeva/Java10Radioman.git)
+
+[Наследование и расширяемость систем. Проблемы наследования](https://github.com/0lgaPankeeva/Java13.1..git)
+
+[Основы автоматизации](https://github.com/0lgaPankeeva/Java1.1.CashbackHacker.git)
+
+[Автоматизация тестирования формы заказа банковской карты](https://github.com/0lgaPankeeva/Java2.1.1.Card.git)
+
+#### Тестирование мобильных приложений
+
+[Тестирование Android-приложений](https://docs.google.com/spreadsheets/d/1CYnWD4Gbqrj9AMuW9y45loTXT9f03_Rb-ImBM5o1I0g/edit#gid=0)
+
+[Снифферинг. Настройка и возможности.Charles](https://docs.google.com/spreadsheets/d/1dLI5GcCbIgb7xdxs1HpK74TKxXbf5fXqo8ZW6ocLCDM/edit#gid=0)
+
+[Автоматизация тестирования мобильных приложений](https://github.com/0lgaPankeeva/MQA-2.1.2.git)
+
+[UIAutomator. Автоматизация тестирования Android](https://github.com/0lgaPankeeva/MQA-2.2.git)
+
+#### Тестирование производительности
+
+[Подготовка стенда тестирования](https://github.com/0lgaPankeeva/Loadqa-2..git)
+
+[Проведение нагрузочного тестирования WEB](https://github.com/0lgaPankeeva/Loadqa3.git)
+
+#### Тестирование безопасности
+
+[Работа с анализаторами трафика](https://docs.google.com/document/d/1qJTWKfZYVhkuvNzc8GQZvTMh9gUh_VrJEe7TFIzC85U/edit)
+
+[Инъекции и уязвимости на уровне ОС](https://docs.google.com/document/d/1PxFs_nLxxhntxF8tWclwPhLk7aLrwGC44bBTxwpcVlI/edit)
+
+[SQL, XSS, Code и другие инъекции](https://docs.google.com/document/d/1NGAehrc_GQoAmOoUz1ywhHxo4yZ86lrEroPem_m5IX8/edit)
 
 
 
-<!--### :fire: Моя статистика : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0lgapankeeva&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru)](https://git.io/streak-stats)
-**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0lgaPankeeva&locale=ru&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://github.com/anuraghazra/github-readme-stats)**-->
+
