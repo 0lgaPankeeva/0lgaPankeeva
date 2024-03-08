@@ -10,7 +10,7 @@
   <a href="https://t.me/OlgaPankeeva">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="0lga.pankeeva011@gmail.com">
+  <a href="mailto:0lga.pankeeva011@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=GMail&logoColor=white" alt="GMail Badge"/>
   </a>
 </div>
