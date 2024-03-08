@@ -1,5 +1,22 @@
+<div id="header" align="center">
+  <h2>Всем привет, меня зовут Ольга :wave:</h1>
+  <h3>Я Инженер по тестированию ПО</h3>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrNmc2OHJwbTdleXIyeGVvMDNvc3IxbmhmOHI5amNyeTZkMWUyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ut7zeRXCmxc0td7N68/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center"
+  <div id="badges">
+  <a href="https://t.me/OlgaPankeeva">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="0lga.pankeeva011@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=GMail&logoColor=white" alt="GMail Badge"/>
+  </a>
+</div>
 
-## Меня зовут Ольга, я Инженер по тестированию. 
+  
+
 
 ### Мои проекты в рамках курса обучения профессии Инженер по тестированию: 
 
