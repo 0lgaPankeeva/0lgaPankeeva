@@ -26,6 +26,8 @@
 #### Ручное тестирование
 [Основы клиент-серверного взаимодействия](https://docs.google.com/document/d/17USo3Bd8mE3X3GD-zSOC0azyVkvMt1UJE1CKhEbpjSo/edit)
 
+[Тестирование ПО. Тест-дизайн](https://docs.google.com/document/d/1z9jGmcxk-KEvTRKSg55C0NrozKC3rYZ5-_TqkATfR1U/edit?usp=sharing)
+
 [Тест-кейсы для проверки страницы с формой заявки на оформление банковской карты](https://docs.google.com/spreadsheets/d/12eqld5LTHfYbm5Bd1xdvwD2wOA88tamO1-h3XGXCVKo/edit#gid=0)
 
 #### Java и автоматизированное тестирование веб-приложений на Java
